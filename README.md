@@ -1,4 +1,4 @@
-# suscripci-n-al-sistema-de-alertas-de-ZAP
+# suscripcion-al-sistema-de-alertas-de-ZAP
 suscripción al sistema de alertas de ZAP
 
 ## tener en cuenta:
